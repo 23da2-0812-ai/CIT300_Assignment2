@@ -1,3 +1,9 @@
+/**
+ * Array component.
+ * A fixed-size array with insert, delete, search and display operations.
+ *
+ * @author 23DA2-0725
+ */
 package com.analyzer.ds;
 
 import java.util.Scanner;

@@ -7,6 +7,8 @@ import com.analyzer.Main;
 /**
  * Stack component (LIFO).
  * Array-based stack with push, pop, peek and display.
+ *
+ * @author 23DA2-0812
  */
 public class MyStack {
 
